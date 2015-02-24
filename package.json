@@ -1,0 +1,26 @@
+{
+  "name": "venn-places",
+  "version": "0.0.1",
+  "description": "Use Venn Places in your NodeJS App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VennHQ/places-node.git"
+  },
+  "keywords": [
+    "venn",
+    "places"
+  ],
+  "author": "Tim Giblin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VennHQ/places-node/issues"
+  },
+  "homepage": "https://github.com/VennHQ/places-node",
+  "dependencies": {
+    "request": "^2.53.0"
+  }
+}
